@@ -1,9 +1,14 @@
 # 꼬마 원소 탐험대
 
-유아가 118개 원소를 검색하고 눌러보며 배울 수 있는 우주 테마 주기율표입니다.
+기존 React 화면과 기능을 그대로 옮긴 GitHub Pages용 Vite 정적 프로젝트입니다. `master` 브랜치에 변경사항이 올라오면 자동으로 빌드·배포됩니다.
 
-## GitHub Pages
+## 로컬 실행
 
-이 저장소는 GitHub Actions로 `index.html`을 GitHub Pages에 자동 게시합니다.
+```bash
+npm install
+npm run dev
+```
 
-사이트: https://moseojh.github.io/little-scientist-elements/
+## 배포 주소
+
+https://moseojh.github.io/little-scientist-elements/
